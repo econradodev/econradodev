@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @econradodev
+- 👋 Hello! Salut! I’m @econradodev
 - 👀 I’m interested in Software Engineer
 - 🌱 I’m currently learning Logic, Algorithms and Python;
 - 📫 Find me on Linkedin
