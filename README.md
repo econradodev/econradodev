@@ -1,6 +1,6 @@
 - 👋 Hello! Salut! I’m @econradodev
 - 👀 I’m interested in Software Engineer
-- 🌱 I’m currently learning Logic, Algorithms and Python;
+- 🌱 I’m currently learning Logic, Algorithms, Python and C++;
 - 📫 Find me on Linkedin
 
 <!---
