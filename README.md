@@ -10,9 +10,9 @@
  </div>
  
  ## 
-<img align="center" alt="Rafa-HTML" height="40" width="40" 
+<img align="center" alt="Rafa-HTML" height="30" width="30" 
      src="https://github.com/econradodev/econradodev/assets/120610095/15ec92bd-a00b-4338-b9ea-690000247cfe">
-<img align="center" alt="Rafa-HTML" height="40" width="40" 
+<img align="center" alt="Rafa-HTML" height="30" width="30" 
      src="https://github.com/econradodev/econradodev/assets/120610095/beec4c02-423c-4c6c-a4f4-c3bdc633c5ba">
 
 
