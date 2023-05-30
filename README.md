@@ -1,10 +1,14 @@
-- 👋 Hello! Salut! I’m @econradodev
+- 👋 Hello! Salut! I’m Emanuel Conrado
 - 👀 I’m interested in Software Engineer
-- 🌱 I’m currently learning Logic, Algorithms, Python and C++;
-- 📫 Find me on Linkedin.
+- 🌱 I’m currently learning Python and C++;
+- 📖 Studying Analysis and Systems development;
 - 😀 Writting and Speaking english / Je suis en train de apprendre français;
 
-<!---
-econradodev/econradodev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+##
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" 
+
+
+
