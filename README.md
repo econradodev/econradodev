@@ -1,6 +1,6 @@
 - 👋 Hello! Salut! I’m Emanuel Conrado
 - 👀 I’m interested in Software Engineer
-- 🌱 I’m currently learning Python and C++;
+- 🌱 I’m currently learning Java;
 - 📖 Studying Analysis and Systems development;
 - 😀 Writting and speaking english/Je suis en train de apprendre français;
 
