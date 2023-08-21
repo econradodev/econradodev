@@ -15,6 +15,7 @@
 <img align="center" alt="Rafa-HTML" height="30" width="30" 
      src="https://github.com/econradodev/econradodev/assets/120610095/beec4c02-423c-4c6c-a4f4-c3bdc633c5ba">
 <img align="center" alt="Rafa-HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
 
 
 
