@@ -15,9 +15,10 @@
 <br>
 
  ## 🖥️ Habilidades
-![C++](https://img.shields.io/badge/C%2B%2B-444?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
-https://img.shields.io/badge/C#-512BD4.svg?style=for-the-badge&logo=C#&logoColor=white
-![Java](https://img.shields.io/badge/Java-444?style=for-the-badge&logo=java)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ## GitHub Stats
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=econradodev&layout=compact&bg_color=333&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
