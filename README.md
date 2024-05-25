@@ -16,9 +16,7 @@
 
  ## 🖥️ Habilidades
 ![C++](https://img.shields.io/badge/C%2B%2B-444?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
-![Python](https://img.shields.io/badge/Python-444?style=for-the-badge&logo=python)
-![HTML5](https://img.shields.io/badge/HTML5-444?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-444?style=for-the-badge&logo=css3&logoColor=264CE4)
+https://img.shields.io/badge/C#-512BD4.svg?style=for-the-badge&logo=C#&logoColor=white
 ![Java](https://img.shields.io/badge/Java-444?style=for-the-badge&logo=java)
 
 ## GitHub Stats
