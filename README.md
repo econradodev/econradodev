@@ -1,7 +1,7 @@
 # Emanuel Conrado
 - 👋 Hello! Salut! I’m Emanuel Conrado;
 - 👀 I’m interested in Software Engineer;
-- 🌱 I’m currently learning Java;
+- 🌱 I’m currently learning C# and .NET Framework;
 - 📖 Studying Analysis and Systems development;
 - 😀 Writting and speaking english/Je suis en train de apprendre français;
 
